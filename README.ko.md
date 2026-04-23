@@ -8,6 +8,8 @@ GalaxyXR 디바이스에서 Passthrough 카메라 이미지에 접근하여 Unit
 
 이 프로젝트는 삼성 GalaxyXR 디바이스에서 패스스루(Passthrough) 카메라 이미지를 획득하여 Unity의 3D 오브젝트(Quad)에 실시간으로 표시하는 방법을 구현합니다.
 
+https://github.com/user-attachments/assets/92cea140-9805-4eeb-b625-59e5281345c5
+
 ## 중요 사항: GalaxyXR의 제약사항
 
 **GalaxyXR에서는 ARFoundation의 XRCpuImage 방식으로 Passthrough 이미지에 접근할 수 없습니다.**
