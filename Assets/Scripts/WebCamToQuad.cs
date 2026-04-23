@@ -149,7 +149,7 @@ public class WebCamToQuad : MonoBehaviour
                 Debug.Log($"[WebCamToQuad]     - Resolutions ({resolutions.Length}):");
                 foreach (var res in resolutions)
                 {
-                    Debug.Log($"[WebCamToQuad]       {res.width}x{res.height} @ {res.refreshRate}Hz");
+                    Debug.Log($"[WebCamToQuad]       {res.width}x{res.height} @ {res.refreshRateRatio}Hz");
                 }
             }
             else

@@ -660,7 +660,7 @@ MonoBehaviour:
   targetOpenXRApiVersion: 
   required: 0
   customRuntimeLoaderName: 
-  m_EnableHandRemoval: 1
+  m_EnableHandRemoval: 0
 --- !u!114 &-2851390966943727019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1209,6 +1209,8 @@ MonoBehaviour:
   targetOpenXRApiVersion: 
   required: 0
   customRuntimeLoaderName: 
+  m_CameraImageSupport: 0
+  m_PassthroughPreSplashScreen: 0
 --- !u!114 &209838274475755499
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1344,6 +1346,8 @@ MonoBehaviour:
   targetOpenXRApiVersion: 
   required: 0
   customRuntimeLoaderName: 
+  m_CameraImageSupport: 0
+  m_PassthroughPreSplashScreen: 0
 --- !u!114 &1690974795193997703
 MonoBehaviour:
   m_ObjectHideFlags: 0
