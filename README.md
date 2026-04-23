@@ -8,6 +8,8 @@ A Unity project that demonstrates how to access and utilize Passthrough camera i
 
 This project implements a method to capture Passthrough camera images from Samsung GalaxyXR devices and display them in real-time on Unity.
 
+https://github.com/user-attachments/assets/92cea140-9805-4eeb-b625-59e5281345c5
+
 ## Important: GalaxyXR Limitations
 
 **GalaxyXR does not support accessing Passthrough images via ARFoundation's XRCpuImage method.**
